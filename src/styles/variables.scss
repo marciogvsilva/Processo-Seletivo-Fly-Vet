@@ -1,0 +1,28 @@
+// Base color
+$primary-color: #004aad;
+$secondary-color: #9bb8de;
+$on-primary:white;
+
+// Lighter shades
+$primary-lightest: #daf0f0;
+$primary-lighter: #a3d9d5;
+$primary-light: #6bb6b2;
+
+// Darker shades
+$primary-dark: #001e44;
+$primary-darker: #5bb8de;
+$primary-darkest: #260808;
+
+// Accent colors (variantes para botões ou detalhes)
+$accent-light: #44a9a1;
+$accent-dark: #1e347e;
+
+// Neutrals (para contrastes e equilíbrio)
+$neutral-light: #f4f4f4; // Usado para fundos e áreas de respiro
+$neutral-medium: #d5d8d8; // Usado para bordas e divisores
+$neutral-dark: #3a3a3a; // Para texto escuro em fundos claros
+
+// Opacity variations
+$primary-opacity-80: rgba($primary-color, 0.8);
+$primary-opacity-60: rgba($primary-color, 0.6);
+$primary-opacity-40: rgba($primary-color, 0.4);
